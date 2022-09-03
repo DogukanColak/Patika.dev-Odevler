@@ -33,3 +33,6 @@ c) Dizi sıralandıktan sonra 18 sayısı dizinin ortasında yer alır. Bu yüzd
 3- [2,3,4,5,7,9,8,15,6]
 
 4- [2,3,4,5,6,9,8,15,7]
+
+
+www.patika.dev
