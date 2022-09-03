@@ -1,4 +1,4 @@
-# Patika.dev-Odevler
+# Merge-Sort Projesi
 [16,21,11,8,12,22] -> Merge Sort
 
 a)Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
